@@ -801,6 +801,10 @@ a {
     color: #bfbcb2;
 }
 
+.footer .list a:hover {
+    text-decoration: underline;
+}
+
 .footer .list strong {
     font-weight: 600;
     color: #ffffff;
