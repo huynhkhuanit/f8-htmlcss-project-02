@@ -501,6 +501,10 @@ a {
     cursor: default;
 }
 
+.dots .dot:hover:not(.dot.active) {
+    background: var(--primary-color);
+}
+
 .feedback-item blockquote {
     margin-left: 30px;
     font-style: italic;
